@@ -1,4 +1,8 @@
-### Hi there 👋
+### matumoto!
+
+![GitHubStatsCard](https://github-readme-stats.vercel.app/api?username=matumoto&show_icons=true&theme=github_dark)
+
+![GitHubLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=matumoto1234&theme=github_dark)
 
 <!--
 **matumoto1234/matumoto1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
