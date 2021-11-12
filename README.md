@@ -1,6 +1,6 @@
 ### matumoto!
 
-![GitHubStatsCard](https://github-readme-stats.vercel.app/api?username=matumoto&show_icons=true&theme=github_dark)
+![GitHubStatsCard](https://github-readme-stats.vercel.app/api?username=matumoto1234&show_icons=true&theme=github_dark)
 ![GitHubLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=matumoto1234&theme=github_dark)
 
 <!--
