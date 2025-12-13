@@ -10,6 +10,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matumoto1234&theme=vue)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/GWJOEQO" target="_blank" rel="noopener noreferrer"><img alt="GWJOEQOのLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.5 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=2.85&i=3.5&b1=%2334495e&b2=%2341b883&i1=%2341b883&i2=%239effd3&l=ja" width="400" ></a>  
-Last Updated on 12/12/2025, 4:18:22 AM</p>
+<p ><a href="https://lapras.com/public/GWJOEQO" target="_blank" rel="noopener noreferrer"><img alt="GWJOEQOのLAPRASでのスコアは次の通りです: エンジニアリング: 3.57 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.5 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.57&b=2.85&i=3.5&b1=%2334495e&b2=%2341b883&i1=%2341b883&i2=%239effd3&l=ja" width="400" ></a>  
+Last Updated on 12/13/2025, 4:01:30 AM</p>
 <!--END_SECTION:lapras-card-->
